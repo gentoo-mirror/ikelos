@@ -1,0 +1,13 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+app-crypt/ophcrack:tables - Require the additional tables used to carry out cracking (app-crypt/ophcrack-tables)
+app-crypt/ophcrack-tables:vistafree - Installs the free Vista ophcrack tables
+app-crypt/ophcrack-tables:xpfast - Installs the fast XP ophcrack tables
+app-crypt/ophcrack-tables:xpsmall - Installs the small free XP ophcrack tables
+dev-python/pypy:jit - Enable the JIT compiler
+dev-python/pypy:sandbox - Enable sandboxing functionality
+dev-python/pypy:shadowstack - Use a shadow stack for finding GC roots
+dev-python/pypy:stackless - Enable running with stackless features
+sys-fs/cryptsetup:dynamic - Build cryptsetup dynamically
