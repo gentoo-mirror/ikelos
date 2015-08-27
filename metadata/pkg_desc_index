@@ -1,16 +1,20 @@
 app-accessibility/svox 9999: SVOX PicoTTS text-to-speech engine
+app-arch/jefferson 9999: JFFS2 filesystem extraction tool
+app-arch/sasquatch 9999: A modified unsquashfs utility that attempts to support as many hacked-up vendor-specific SquashFS implementations as possible.
 app-crypt/ccid-utils 0.3 9999: A USB smartcard driver and development platform.
 app-crypt/ophcrack 3.6.0: A time-memory-trade-off-cracker
 app-crypt/ophcrack-tables 1.1: Tables available for ophcrack
 app-forensics/fatback 1.3: Tool to undelete files from FAT file systems
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/yara 1.5: A malware identification and classification tool
+app-misc/binwalk 9999: A tool for identifying files embedded inside firmware images
 app-misc/lirc 0.9.0-r3: decode and send infra-red signals of many commonly used remote controls
 app-misc/thingamablog 1.5.1: Thingamablog is a weblog software which generates pure HTML. No database or dynamic extensions are needed on the server.
 app-misc/yubikey-personalization 9999: 
 app-portage/ebuild-bisect 9999: Tool for bisecting live ebuilds
 app-text/dblatex 0.2.9 0.2.10: Transform DocBook using TeX macros
 dev-libs/libdwarf 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
+dev-python/cstruct 1.0: C-style structs for Python
 dev-python/ctypesgen 0_p147: Python wrapper generator for ctypes
 dev-python/elasticsearch-py 1.2.0: Elasticsearch python bindings
 dev-python/google-appengine 1.3.7: Google App Engine SDK for Python
@@ -25,8 +29,9 @@ dev-python/pypy 1.9: PyPy is a fast, compliant alternative implementation of the
 dev-python/pyscard 1.6.12 1.6.13.999: Python Smartcard Library
 dev-python/repoze-debug 1.0.2 9999: repoze.who is an identification and authentication framework for WSGI.
 dev-python/repoze-who 2.2: repoze.who is an identification and authentication framework for WSGI.
-dev-python/spyne 2.11.0: Library for implementing RPC/SOAP in python
-dev-python/uncompyle 9999: 
+dev-python/spyne 2.11.0 9999: Library for implementing RPC/SOAP in python
+dev-python/uncompyle 9999: A Python 2.7 byte-code decompiler
+dev-python/uncompyle2 9999: A Python 2.7 byte-code decompiler
 dev-python/yara-python 1.5: A malware identification and classification tool
 dev-ruby/compass 0.12.2: An open-source CSS Authoring Framework
 dev-ruby/fssm 0.2.10: A file state system monitoring ruby module.
