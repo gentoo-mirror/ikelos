@@ -22,7 +22,6 @@ dev-python/pdbparse 9999:
 dev-python/pefile 1.2.10.111: PE File analysis module
 dev-python/protocol-informatics 0.02_beta: 
 dev-python/pybank 9999: Python Gobject Introspection Library
-dev-python/pydub 9999: 
 dev-python/pyfacebook 9999: Python Client Library for the Facebook API
 dev-python/pynfc 0.0.4 9999: Python bindings for the libnfc library
 dev-python/pypy 1.9: PyPy is a fast, compliant alternative implementation of the Python language
