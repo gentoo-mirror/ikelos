@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=An inkscape plugin to create SVG presentations
+EAPI=3
+HOMEPAGE=http://jessyink.googlecode.com/
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-3
+RDEPEND=media-gfx/inkscape
+SLOT=0
+SRC_URI=http://launchpad.net/jessyink/trunk/1.4.0/+download/jessyink-1.4.0.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=a4f11a6832e3cf4e667872ae872e6879

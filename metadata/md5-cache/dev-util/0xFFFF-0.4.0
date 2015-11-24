@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=Open Free Fiasco Firmware Flasher
+EAPI=0
+HOMEPAGE=http://www.nopcode.org/0xFFFF/
+KEYWORDS=~x86
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=http://www.nopcode.org/0xFFFF/get/0xFFFF-0.4.0.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=272af30f5d84aadc88e923b2ff519c92

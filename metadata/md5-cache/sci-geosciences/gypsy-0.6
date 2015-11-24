@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install
+DEPEND=dev-libs/glib sys-apps/dbus bluetooth? ( net-wireless/bluez-libs )
+DESCRIPTION=D-bus based GPS daemon
+EAPI=0
+HOMEPAGE=http://gypsy.freedesktop.org/
+IUSE=bluetooth
+KEYWORDS=-x86
+LICENSE=GPL-2
+RDEPEND=dev-libs/glib sys-apps/dbus bluetooth? ( net-wireless/bluez-libs )
+SLOT=0
+SRC_URI=http://gypsy.freedesktop.org/gypsy-releases/gypsy-0.6.tar.gz
+_eclass_exported_funcs=src_compile:- src_install:-
+_md5_=17038afc1acb371d39d8acb863ee93c8

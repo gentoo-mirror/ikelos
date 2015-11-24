@@ -1,0 +1,12 @@
+DEFINED_PHASES=install
+DESCRIPTION=Omnikey Cardman 5x2x PC/SC RFID drivers
+EAPI=3
+HOMEPAGE=http://omnikey.aaitg.com/index.php?id=69
+KEYWORDS=~x86
+RDEPEND=sys-apps/pcsc-lite
+RESTRICT=fetch
+SLOT=0
+SRC_URI=x86? ( ifdokrfid_lnx_i686-2.9.1.tar.gz ) amd64? ( ifdokrfid_lnx_x64-2.9.1.tar.gz )
+_eclass_exported_funcs=src_install:-
+_eclasses_=multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=691f001373e8b539b288b77337833c82
