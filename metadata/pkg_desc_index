@@ -1,22 +1,22 @@
 app-accessibility/svox 9999: SVOX PicoTTS text-to-speech engine
-app-arch/jefferson 9999: 
-app-arch/sasquatch 9999: 
+app-arch/jefferson 9999: JFFS2 filesystem extraction tool
+app-arch/sasquatch 9999: A modified unsquashfs utility that attempts to support as many hacked-up vendor-specific SquashFS implementations as possible.
 app-crypt/ccid-utils 0.3 9999: A USB smartcard driver and development platform.
 app-crypt/ophcrack 3.6.0: A time-memory-trade-off-cracker
-app-crypt/ophcrack-tables 1.1: 
+app-crypt/ophcrack-tables 1.1: Tables available for ophcrack
 app-forensics/fatback 1.3: Tool to undelete files from FAT file systems
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/yara 1.5: A malware identification and classification tool
-app-misc/binwalk 9999: 
+app-misc/binwalk 9999: A tool for identifying files embedded inside firmware images
 app-misc/lirc 0.9.0-r3: decode and send infra-red signals of many commonly used remote controls
 app-misc/thingamablog 1.5.1: Thingamablog is a weblog software which generates pure HTML. No database or dynamic extensions are needed on the server.
 app-misc/yubikey-personalization 9999: 
 app-portage/ebuild-bisect 9999: Tool for bisecting live ebuilds
 app-text/dblatex 0.2.9 0.2.10: Transform DocBook using TeX macros
 dev-libs/libdwarf 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
-dev-python/cstruct 1.0: 
+dev-python/cstruct 1.0: C-style structs for Python
 dev-python/ctypesgen 0_p147: Python wrapper generator for ctypes
-dev-python/elasticsearch-py 1.2.0: 
+dev-python/elasticsearch-py 1.2.0: Elasticsearch python bindings
 dev-python/google-appengine 1.3.7: Google App Engine SDK for Python
 dev-python/pdbparse 9999: 
 dev-python/pefile 1.2.10.139: PE File analysis module
@@ -27,25 +27,25 @@ dev-python/pyfacebook 9999: Python Client Library for the Facebook API
 dev-python/pynfc 0.0.4 9999: Python bindings for the libnfc library
 dev-python/pypy 1.9: PyPy is a fast, compliant alternative implementation of the Python language
 dev-python/pyscard 1.6.12 1.6.13.999: Python Smartcard Library
-dev-python/repoze-debug 1.0.2 9999: 
-dev-python/repoze-who 2.2: 
-dev-python/spyne 2.11.0 9999: 
-dev-python/uncompyle 9999: 
-dev-python/uncompyle2 9999: 
+dev-python/repoze-debug 1.0.2 9999: repoze.who is an identification and authentication framework for WSGI.
+dev-python/repoze-who 2.2: repoze.who is an identification and authentication framework for WSGI.
+dev-python/spyne 2.11.0 9999: Library for implementing RPC/SOAP in python
+dev-python/uncompyle 9999: A Python 2.7 byte-code decompiler
+dev-python/uncompyle2 9999: A Python 2.7 byte-code decompiler
 dev-python/yara-python 1.5: A malware identification and classification tool
-dev-ruby/compass 0.12.2: 
-dev-ruby/fssm 0.2.10: 
+dev-ruby/compass 0.12.2: An open-source CSS Authoring Framework
+dev-ruby/fssm 0.2.10: A file state system monitoring ruby module.
 dev-util/0xFFFF 0.4.0: Open Free Fiasco Firmware Flasher
-dev-util/capstone 3.0.4: 
+dev-util/capstone 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-util/dwarfdump 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
-dev-util/jadx 0.6.0: 
-dev-util/pycharm-community 5.0.1: 
+dev-util/jadx 0.6.0: Android Dex to Java Decompiler
+dev-util/pycharm-community 5.0.1: Intelligent Python IDE with unique code assistance and analysis
 games-action/lugaru 9999: A cross platform 3d action adventure
 games-emulation/snes9x-gtk 1.52.79: GTK port of Super Nintendo Entertainment System (SNES) emulator
 gnome-extra/conduit 0.3.13: Synchronization for GNOME
-gnome-extra/gtkparasite 9999: 
+gnome-extra/gtkparasite 9999: Tool for GTK debugging and live interaction
 gnome-extra/tablet-apps 0.3.1: Gnome Graphics Tablet Applications
-mail-client/mailnag 9999: 
+mail-client/mailnag 9999: Mail nagger for gnome-shell (port of popper for unity)
 media-gfx/air-sdk 1.5: Adobe AIR runtime and development kit for Linux
 media-gfx/jessyink 1.4.0: An inkscape plugin to create SVG presentations
 media-gfx/mathmap 1.3.5 1.3.5-r1: Mathmap is an image manipulation scripting plugin for the Gimp
@@ -53,9 +53,9 @@ media-plugins/fourier 0.3.1:
 media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
 media-video/get_iplayer 2.94 9999: BBC Iplayer downloading application
 net-analyzer/bettercap 1.1.5: 
-net-analyzer/inetsim 1.2.5: 
+net-analyzer/inetsim 1.2.5: Tool for simulating an entire internet with working services on a single box.
 net-analyzer/passivedns 9999: 
-net-analyzer/yaf 2.5.0: 
+net-analyzer/yaf 2.5.0: Yet Another Flowsensor turns packets into NETFIX
 sci-geosciences/gypsy 0.6: D-bus based GPS daemon
 sys-apps/ifd-okrfid 2.2.0 2.6.0 2.8.1 2.9.1: Omnikey Cardman 5x2x PC/SC RFID drivers
 sys-apps/omnikey-pcsc-syncapi 1.5.0: Omnikey PC/SC Sync-API for Contactless Smartcards
