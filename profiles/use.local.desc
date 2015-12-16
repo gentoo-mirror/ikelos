@@ -11,4 +11,11 @@ dev-python/pypy:jit - Enable the JIT compiler
 dev-python/pypy:sandbox - Enable sandboxing functionality
 dev-python/pypy:shadowstack - Use a shadow stack for finding GC roots
 dev-python/pypy:stackless - Enable running with stackless features
+net-misc/openvpn:down-root - Enable the down-root plugin
+net-misc/openvpn:iproute2 - Enabled iproute2 support instead of net-tools
+net-misc/openvpn:passwordsave - Enables openvpn to save passwords
+net-misc/openvpn:pkcs11 - Enable PKCS#11 smartcard support
+net-misc/openvpn:plugins - Enable the OpenVPN plugin system
+net-misc/openvpn:polarssl - Use PolarSSL instead of OpenSSL
+net-misc/openvpn:socks - Enable socks support
 sys-fs/cryptsetup:dynamic - Build cryptsetup dynamically
