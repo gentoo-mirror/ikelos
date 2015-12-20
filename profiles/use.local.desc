@@ -11,6 +11,7 @@ dev-python/pypy:jit - Enable the JIT compiler
 dev-python/pypy:sandbox - Enable sandboxing functionality
 dev-python/pypy:shadowstack - Use a shadow stack for finding GC roots
 dev-python/pypy:stackless - Enable running with stackless features
+net-dialup/freeradius:pcap - Build the RADIUS sniffer which requires net-libs/libpcap.
 net-misc/openvpn:down-root - Enable the down-root plugin
 net-misc/openvpn:iproute2 - Enabled iproute2 support instead of net-tools
 net-misc/openvpn:passwordsave - Enables openvpn to save passwords
