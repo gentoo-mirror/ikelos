@@ -58,6 +58,7 @@ net-analyzer/passivedns 9999:
 net-analyzer/yaf 2.5.0: Yet Another Flowsensor turns packets into NETFIX
 net-dialup/freeradius 3.0.10: Highly configurable free RADIUS server
 net-misc/openvpn 2.3.9: Robust and highly flexible tunneling application compatible with many OSes
+net-misc/openvpn-auth-duosec 9999: OpenVPN plugin to authenticate using Duo Security
 sci-geosciences/gypsy 0.6: D-bus based GPS daemon
 sys-apps/ifd-okrfid 2.2.0 2.6.0 2.8.1 2.9.1: Omnikey Cardman 5x2x PC/SC RFID drivers
 sys-apps/omnikey-pcsc-syncapi 1.5.0: Omnikey PC/SC Sync-API for Contactless Smartcards
