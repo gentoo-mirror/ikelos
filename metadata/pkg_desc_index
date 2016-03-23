@@ -29,7 +29,7 @@ dev-python/py010parser 0.1.6: 010 template library for python
 dev-python/pybank 9999: Python Gobject Introspection Library
 dev-python/pydub 9999: 
 dev-python/pyfacebook 9999: Python Client Library for the Facebook API
-dev-python/pynfc 0.0.4 9999: Python bindings for the libnfc library
+dev-python/pynfc 0.0.4 9999 9999-r1: Python bindings for the libnfc library
 dev-python/pypy 1.9: PyPy is a fast, compliant alternative implementation of the Python language
 dev-python/pyscard 1.6.12 1.6.13.999: Python Smartcard Library
 dev-python/repoze-debug 1.0.2 9999: repoze.debug is an debugging framework for WSGI.
