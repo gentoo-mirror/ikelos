@@ -7,10 +7,6 @@ app-crypt/ophcrack-tables:vistafree - Installs the free Vista ophcrack tables
 app-crypt/ophcrack-tables:xpfast - Installs the fast XP ophcrack tables
 app-crypt/ophcrack-tables:xpsmall - Installs the small free XP ophcrack tables
 app-misc/binwalk:graph - Enable support for generating entropy graphs
-dev-python/pypy:jit - Enable the JIT compiler
-dev-python/pypy:sandbox - Enable sandboxing functionality
-dev-python/pypy:shadowstack - Use a shadow stack for finding GC roots
-dev-python/pypy:stackless - Enable running with stackless features
 net-dialup/freeradius:pcap - Build the RADIUS sniffer which requires net-libs/libpcap.
 net-misc/openvpn:down-root - Enable the down-root plugin
 net-misc/openvpn:iproute2 - Enabled iproute2 support instead of net-tools
