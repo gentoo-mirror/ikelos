@@ -22,14 +22,14 @@ dev-python/ctypesgen 0_p147: Python wrapper generator for ctypes
 dev-python/elasticsearch-py 1.2.0: Elasticsearch python bindings
 dev-python/google-appengine 1.3.7: Google App Engine SDK for Python
 dev-python/intervaltree 2.1.0: Editable interval tree data structure for Python 2 and 3
-dev-python/libkeepass 9999: 
+dev-python/libkeepass 9999: Python module to read KeePass 1.x/KeePassX (v3) and KeePass 2.x (v4) files
 dev-python/pdbparse 9999: 
 dev-python/pefile 1.2.10.139: PE File analysis module
 dev-python/pfp 0.1.14: 010 Template interpretter for python
 dev-python/protocol-informatics 0.02_beta: 
 dev-python/py010parser 0.1.6: 010 template library for python
 dev-python/pybank 9999: Python Gobject Introspection Library
-dev-python/pycdc 9999: 
+dev-python/pycdc 9999: Python compiled-bytecode disassembler and decompiler
 dev-python/pydub 9999: 
 dev-python/pyfacebook 9999: Python Client Library for the Facebook API
 dev-python/pynfc 0.0.4 9999 9999-r1: Python bindings for the libnfc library
