@@ -4,8 +4,13 @@
 
 app-crypt/ophcrack:tables - Require the additional tables used to carry out cracking (app-crypt/ophcrack-tables)
 app-crypt/ophcrack-tables:vistafree - Installs the free Vista ophcrack tables
+app-crypt/ophcrack-tables:vistanum - Installs the Vista numeric ophcrack tables
+app-crypt/ophcrack-tables:vistaprobafree - Installs the free probabalistic Vista ophcrack tables
+app-crypt/ophcrack-tables:vistaspecial - Installs the Vista special ophcrack tables
 app-crypt/ophcrack-tables:xpfast - Installs the fast XP ophcrack tables
+app-crypt/ophcrack-tables:xpgerman - Installs the XP german ophcrack tables
 app-crypt/ophcrack-tables:xpsmall - Installs the small free XP ophcrack tables
+app-crypt/ophcrack-tables:xpspecial - Installs the XP special ophcrack tables
 app-misc/binwalk:graph - Enable support for generating entropy graphs
 net-dialup/freeradius:pcap - Build the RADIUS sniffer which requires net-libs/libpcap.
 net-misc/openvpn:down-root - Enable the down-root plugin
