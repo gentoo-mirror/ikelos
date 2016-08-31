@@ -8,5 +8,5 @@ LICENSE=GPL-3
 RDEPEND=>=dev-lang/python-2.4 >=dev-python/dbus-python-0.80 >=dev-python/pygobject-3.14.0:3 >=dev-python/python-mpd-0.3.0
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_prepare:- src_install:-
-_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	git-2	7af5d170bfc02983b4bcd3167dc5edd4	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	python	efc1c55fc44c5b7272fc2ffba73c3e6f	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	b83a2420b796f7c6eff682679d08fe25	git-2	7af5d170bfc02983b4bcd3167dc5edd4	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	python	efc1c55fc44c5b7272fc2ffba73c3e6f	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
 _md5_=67a8b7032a0e8ee435fc5891dd698511
