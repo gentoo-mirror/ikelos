@@ -2,20 +2,24 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: $
 
-EAPI=3
-PYTHON_DEPEND="2:2.5"
+EAPI=6
 
-inherit distutils
+inherit autotools
 
 DESCRIPTION="A malware identification and classification tool"
-HOMEPAGE="http://yara-project.googlecode.com/"
-SRC_URI="http://yara-project.googlecode.com/files/${P}.tar.gz"
+HOMEPAGE="http://virustotal.github.io/yara/"
+SRC_URI="https://github.com/VirusTotal/${PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="~x86 ~amd64"
-IUSE=""
+IUSE="python"
 
-DEPEND="~app-forensics/yara-${PV}"
+DEPEND=""
 RDEPEND="${DEPEND}"
+
+src_prepare() {
+	eautoreconf
+	default
+}
 
