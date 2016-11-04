@@ -6,7 +6,7 @@ app-crypt/ophcrack 3.6.0: A time-memory-trade-off-cracker
 app-crypt/ophcrack-tables 1.1: Tables available for ophcrack
 app-forensics/fatback 1.3: Tool to undelete files from FAT file systems
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
-app-forensics/yara 1.5: A malware identification and classification tool
+app-forensics/yara 3.5.0: A malware identification and classification tool
 app-misc/010-editor-templates 20151226: 010 Editor Templates
 app-misc/binwalk 9999: A tool for identifying files embedded inside firmware images
 app-misc/lirc 0.9.0-r3: decode and send infra-red signals of many commonly used remote controls
@@ -41,7 +41,7 @@ dev-python/repoze-who-plugins-digestauth 0.1.1: repoze.who is an identification 
 dev-python/sortedcontainers 1.4.4: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/spyne 2.11.0 2.12.11 9999: Library for implementing RPC/SOAP in python
 dev-python/uncompyle6 2.7.0: A python byte-code decompiler
-dev-python/yara-python 1.5: A malware identification and classification tool
+dev-python/yara-python 3.5.0: A malware identification and classification tool
 dev-ruby/compass 0.12.2: An open-source CSS Authoring Framework
 dev-ruby/fssm 0.2.10: A file state system monitoring ruby module.
 dev-util/0xFFFF 0.4.0: Open Free Fiasco Firmware Flasher
