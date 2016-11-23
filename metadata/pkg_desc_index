@@ -13,6 +13,7 @@ app-misc/lirc 0.9.0-r3: decode and send infra-red signals of many commonly used 
 app-misc/thingamablog 1.5.1: Thingamablog is a weblog software which generates pure HTML. No database or dynamic extensions are needed on the server.
 app-misc/yubikey-personalization 9999: 
 app-portage/ebuild-bisect 9999: Tool for bisecting live ebuilds
+app-shells/zsh-syntax-highlighting 9999: Syntax highlighting (similar to the fish shell) for ZSH
 app-text/dblatex 0.2.9 0.2.10: Transform DocBook using TeX macros
 app-vim/pfp-vim 9999: vim plugin: 010 Editor template interpreter
 dev-libs/libdwarf 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
