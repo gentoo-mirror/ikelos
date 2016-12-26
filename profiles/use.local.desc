@@ -20,4 +20,3 @@ net-misc/openvpn:pkcs11 - Enable PKCS#11 smartcard support
 net-misc/openvpn:plugins - Enable the OpenVPN plugin system
 net-misc/openvpn:polarssl - Use PolarSSL instead of OpenSSL
 net-misc/openvpn:socks - Enable socks support
-sys-fs/cryptsetup:dynamic - Build cryptsetup dynamically
