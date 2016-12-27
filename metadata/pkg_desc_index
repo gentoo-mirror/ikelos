@@ -26,9 +26,9 @@ dev-python/libkeepass 9999: Python module to read KeePass 1.x/KeePassX (v3) and 
 dev-python/mypy 0.4.6: Optional static typing for Python
 dev-python/pdbparse 9999: 
 dev-python/pefile 2016.3.28: PE File analysis module
-dev-python/pfp 0.1.14: 010 Template interpretter for python
+dev-python/pfp 0.2.1: 010 Template interpretter for python
 dev-python/protocol-informatics 0.02_beta: 
-dev-python/py010parser 0.1.6: 010 template library for python
+dev-python/py010parser 0.1.10: 010 template library for python
 dev-python/pybank 9999: Python Gobject Introspection Library
 dev-python/pycdc 9999: Python compiled-bytecode disassembler and decompiler
 dev-python/pydub 9999: 
@@ -39,7 +39,7 @@ dev-python/pythonnet 2.1.0: Python bindings to use .NET and mono assemblies.
 dev-python/repoze-debug 1.0.2 9999: repoze.debug is an debugging framework for WSGI.
 dev-python/repoze-who 2.2: repoze.who is an identification and authentication framework for WSGI.
 dev-python/repoze-who-plugins-digestauth 0.1.1: repoze.who is an identification and authentication framework for WSGI.
-dev-python/sortedcontainers 1.4.4: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
+dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/spyne 2.11.0 2.12.11 9999: Library for implementing RPC/SOAP in python
 dev-python/uncompyle6 2.7.0: A python byte-code decompiler
 dev-python/yara-python 3.5.0: A malware identification and classification tool
