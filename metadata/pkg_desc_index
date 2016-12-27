@@ -60,7 +60,6 @@ media-plugins/fourier 0.3.1:
 media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
 media-video/get_iplayer 2.94 9999: BBC Iplayer downloading application
 media-video/griffith 0.13-r2: Movie collection manager
-net-analyzer/bettercap 1.1.5: 
 net-analyzer/inetsim 1.2.5: Tool for simulating an entire internet with working services on a single box.
 net-analyzer/passivedns 9999: 
 net-analyzer/yaf 2.5.0: Yet Another Flowsensor turns packets into NETFIX
