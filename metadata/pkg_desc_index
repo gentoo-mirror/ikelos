@@ -9,7 +9,6 @@ app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/yara 3.5.0: A malware identification and classification tool
 app-misc/010-editor-templates 20151226: 010 Editor Templates
 app-misc/binwalk 9999: A tool for identifying files embedded inside firmware images
-app-misc/lirc 0.9.0-r3: decode and send infra-red signals of many commonly used remote controls
 app-misc/thingamablog 1.5.1: Thingamablog is a weblog software which generates pure HTML. No database or dynamic extensions are needed on the server.
 app-misc/yubikey-personalization 9999: 
 app-portage/ebuild-bisect 9999: Tool for bisecting live ebuilds
