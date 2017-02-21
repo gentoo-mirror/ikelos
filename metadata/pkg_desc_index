@@ -38,7 +38,7 @@ dev-python/repoze-debug 1.0.2 9999: repoze.debug is an debugging framework for W
 dev-python/repoze-who 2.2: repoze.who is an identification and authentication framework for WSGI.
 dev-python/repoze-who-plugins-digestauth 0.1.1: repoze.who is an identification and authentication framework for WSGI.
 dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
-dev-python/spyne 2.11.0 2.12.11 9999: Library for implementing RPC/SOAP in python
+dev-python/spyne 2.11.0 2.12.11 2.12.14 9999: Library for implementing RPC/SOAP in python
 dev-python/tempora 1.6.1: Objects and routines pertaining to date and time (tempora)
 dev-python/uncompyle6 2.7.0: A python byte-code decompiler
 dev-python/yara-python 3.5.0: A malware identification and classification tool
