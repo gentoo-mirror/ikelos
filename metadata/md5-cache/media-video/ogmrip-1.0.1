@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile configure install postinst postrm preinst prepare
+DEPEND=>=dev-libs/glib-2.16:2 >=app-i18n/enca-1.9 dev-libs/libxml2 media-libs/libdvdread >=media-video/mplayer-1.0_rc2[dvd,encode,xvid?,dts?,x264?] aac? ( >=media-libs/faac-1.24 ) gtk? ( >=x11-libs/gtk+-2.12:2 gnome-base/libglade gnome-base/gconf dbus? ( dev-libs/dbus-glib ) libnotify? ( >=x11-libs/libnotify-0.4.3 ) media-video/mplayer[jpeg] ) matroska? ( media-video/mkvtoolnix ) mp3? ( media-sound/lame ) mp4? ( >=media-video/gpac-0.4.2 ) ogm? ( media-sound/ogmtools ) spell? ( >=app-text/enchant-1.1.0 ) srt? ( || ( ( >=app-text/tesseract-2 media-libs/tiff ) >=app-text/gocr-0.39 >=app-text/ocrad-0.15 ) media-libs/libpng ) theora? ( media-libs/libtheora ) vorbis? ( media-sound/vorbis-tools ) dev-util/gtk-doc-am nls? ( sys-devel/gettext dev-util/intltool ) virtual/pkgconfig app-arch/xz-utils >=sys-apps/sed-4 dev-util/desktop-file-utils x11-misc/shared-mime-info
+DESCRIPTION=Graphical frontend and libraries for ripping DVDs and encoding to AVI/OGM/MKV/MP4
+EAPI=6
+HOMEPAGE=http://ogmrip.sourceforge.net/
+IUSE=aac dbus debug dts gtk libnotify matroska mp3 mp4 nls ogm spell srt static-libs theora vorbis x264 xvid
+KEYWORDS=~amd64 ~ppc ~ppc64 ~x86
+LICENSE=LGPL-2.1
+RDEPEND=>=dev-libs/glib-2.16:2 >=app-i18n/enca-1.9 dev-libs/libxml2 media-libs/libdvdread >=media-video/mplayer-1.0_rc2[dvd,encode,xvid?,dts?,x264?] aac? ( >=media-libs/faac-1.24 ) gtk? ( >=x11-libs/gtk+-2.12:2 gnome-base/libglade gnome-base/gconf dbus? ( dev-libs/dbus-glib ) libnotify? ( >=x11-libs/libnotify-0.4.3 ) media-video/mplayer[jpeg] ) matroska? ( media-video/mkvtoolnix ) mp3? ( media-sound/lame ) mp4? ( >=media-video/gpac-0.4.2 ) ogm? ( media-sound/ogmtools ) spell? ( >=app-text/enchant-1.1.0 ) srt? ( || ( ( >=app-text/tesseract-2 media-libs/tiff ) >=app-text/gocr-0.39 >=app-text/ocrad-0.15 ) media-libs/libpng ) theora? ( media-libs/libtheora ) vorbis? ( media-sound/vorbis-tools ) gnome-base/gvfs
+SLOT=0
+SRC_URI=mirror://sourceforge/ogmrip/ogmrip-1.0.1.tar.gz
+_eclass_exported_funcs=pkg_preinst:gnome2 pkg_postrm:gnome2 pkg_postinst:gnome2 src_prepare:gnome2 src_configure:- src_compile:gnome2 src_install:-
+_eclasses_=epatch	122e1264e67c4f59a1482f2095e0b35d	estack	5ac2a138d0b33354b764d84f9e835db8	eutils	1ef31aee2bd63ffbfcae8a1843c9208d	gnome.org	5e4cc5af3f1b17bdee155bf02e8c2df4	gnome2	d37ffcd1731600f2d196e77cd77ed727	gnome2-utils	fe8e9099c6fc74a40946623c593c7236	libtool	48b1b9f6194d2842456514d1184ca72e	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	0236be304ee52e7f179ed2f337075515	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	versionator	c80ccf29e90adea7c5cae94b42eb76d0	xdg	6cd76cc914c1a759dee032778487b57f	xdg-utils	b9389dfad0ee8f8e0b2a41b79fcf7120
+_md5_=89a5720e1e78899dd62798d0c04c81a9

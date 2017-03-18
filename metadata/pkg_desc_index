@@ -35,7 +35,7 @@ dev-python/pyfacebook 9999: Python Client Library for the Facebook API
 dev-python/pynfc 9999-r1: Python bindings for the libnfc library
 dev-python/pythonnet 2.1.0: Python bindings to use .NET and mono assemblies.
 dev-python/repoze-debug 1.0.2 9999: repoze.debug is an debugging framework for WSGI.
-dev-python/repoze-who 2.2: repoze.who is an identification and authentication framework for WSGI.
+dev-python/repoze-who 2.3: repoze.who is an identification and authentication framework for WSGI.
 dev-python/repoze-who-plugins-digestauth 0.1.1: repoze.who is an identification and authentication framework for WSGI.
 dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/spyne 2.11.0 2.12.11 2.12.14 9999: Library for implementing RPC/SOAP in python
@@ -47,7 +47,7 @@ dev-ruby/fssm 0.2.10: A file state system monitoring ruby module.
 dev-util/0xFFFF 0.4.0: Open Free Fiasco Firmware Flasher
 dev-util/dwarfdump 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
 dev-util/jadx 0.6.1: Android Dex to Java Decompiler
-dev-util/pycharm-community 2016.3.2: Intelligent Python IDE with unique code assistance and analysis
+dev-util/pycharm-community 2016.3.3: Intelligent Python IDE with unique code assistance and analysis
 games-action/lugaru 9999: A cross platform 3d action adventure
 gnome-extra/conduit 0.3.13: Synchronization for GNOME
 gnome-extra/gtkparasite 9999: Tool for GTK debugging and live interaction
@@ -59,6 +59,7 @@ media-plugins/fourier 0.3.1:
 media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
 media-video/get_iplayer 2.97: BBC Iplayer downloading application
 media-video/griffith 0.13-r2: Movie collection manager
+media-video/ogmrip 1.0.1: Graphical frontend and libraries for ripping DVDs and encoding to AVI/OGM/MKV/MP4
 net-analyzer/inetsim 1.2.5: Tool for simulating an entire internet with working services on a single box.
 net-analyzer/passivedns 9999: 
 net-analyzer/yaf 2.5.0: Yet Another Flowsensor turns packets into NETFIX

@@ -12,4 +12,6 @@ app-crypt/ophcrack-tables:xpgerman - Installs the XP german ophcrack tables
 app-crypt/ophcrack-tables:xpsmall - Installs the small free XP ophcrack tables
 app-crypt/ophcrack-tables:xpspecial - Installs the XP special ophcrack tables
 app-misc/binwalk:graph - Enable support for generating entropy graphs
+media-video/ogmrip:ogm - Support for OGM container format
+media-video/ogmrip:srt - Support for SRT subtitle format
 net-dialup/freeradius:pcap - Build the RADIUS sniffer which requires net-libs/libpcap.
