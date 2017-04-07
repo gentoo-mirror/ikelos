@@ -40,7 +40,6 @@ dev-python/repoze-who-plugins-digestauth 0.1.1: repoze.who is an identification 
 dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/spyne 2.11.0 2.12.11 2.12.14 9999: Library for implementing RPC/SOAP in python
 dev-python/tempora 1.6.1: Objects and routines pertaining to date and time (tempora)
-dev-python/uncompyle6 2.7.0: A python byte-code decompiler
 dev-python/yara-python 3.5.0: A malware identification and classification tool
 dev-ruby/compass 0.12.2: An open-source CSS Authoring Framework
 dev-ruby/fssm 0.2.10: A file state system monitoring ruby module.
