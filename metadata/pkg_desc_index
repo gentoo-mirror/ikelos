@@ -15,6 +15,7 @@ app-misc/yubikey-personalization 9999:
 app-portage/ebuild-bisect 9999: Tool for bisecting live ebuilds
 app-shells/zsh-syntax-highlighting 9999: Syntax highlighting (similar to the fish shell) for ZSH
 app-vim/pfp-vim 9999: vim plugin: 010 Editor template interpreter
+dev-lang/pawn 9999: Pawn is a quick and small scripting language that requires few resources.
 dev-libs/libdwarf 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
 dev-python/cheroot 5.1.0: Cheroot is the high-performance, pure-Python HTTP server used by CherryPy.
 dev-python/cherrypy 5.1.0 10.1.1: CherryPy is a pythonic, object-oriented HTTP framework
