@@ -32,6 +32,7 @@ dev-python/pfp 0.2.1: 010 Template interpretter for python
 dev-python/portend 1.8: TCP port monitoring utilities
 dev-python/protocol-informatics 0.02_beta: 
 dev-python/py010parser 0.1.10: 010 template library for python
+dev-python/pyahocorasick 1.1.4: A fast and memory efficient library for exact or approximate multi-pattern string search
 dev-python/pycdc 9999: Python compiled-bytecode disassembler and decompiler
 dev-python/pydub 9999: 
 dev-python/pyfacebook 9999: Python Client Library for the Facebook API
