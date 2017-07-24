@@ -17,8 +17,8 @@ app-shells/zsh-syntax-highlighting 9999: Syntax highlighting (similar to the fis
 app-vim/pfp-vim 9999: vim plugin: 010 Editor template interpreter
 dev-lang/pawn 9999: Pawn is a quick and small scripting language that requires few resources.
 dev-libs/libdwarf 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
-dev-python/cheroot 5.1.0: Cheroot is the high-performance, pure-Python HTTP server used by CherryPy.
-dev-python/cherrypy 5.1.0 10.1.1: CherryPy is a pythonic, object-oriented HTTP framework
+dev-python/cheroot 5.1.0 5.7.0: Cheroot is the high-performance, pure-Python HTTP server used by CherryPy.
+dev-python/cherrypy 5.1.0 10.1.1 11.0.0: CherryPy is a pythonic, object-oriented HTTP framework
 dev-python/cstruct 1.0: C-style structs for Python
 dev-python/elasticsearch-py 1.2.0: Elasticsearch python bindings
 dev-python/facebook-sdk 2.0.0: Python SDK for Facebook's Graph API
@@ -29,7 +29,7 @@ dev-python/mypy 0.4.6 0.511: Optional static typing for Python
 dev-python/pdbparse 9999: 
 dev-python/pefile 2016.3.28: PE File analysis module
 dev-python/pfp 0.2.1: 010 Template interpretter for python
-dev-python/portend 1.8: TCP port monitoring utilities
+dev-python/portend 1.8 2.1.2: TCP port monitoring utilities
 dev-python/protocol-informatics 0.02_beta: 
 dev-python/py010parser 0.1.10: 010 template library for python
 dev-python/pyahocorasick 1.1.4: A fast and memory efficient library for exact or approximate multi-pattern string search
@@ -43,7 +43,7 @@ dev-python/repoze-who 2.3: repoze.who is an identification and authentication fr
 dev-python/repoze-who-plugins-digestauth 0.1.1: repoze.who is an identification and authentication framework for WSGI.
 dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/spyne 2.12.14 9999: Library for implementing RPC/SOAP in python
-dev-python/tempora 1.6.1: Objects and routines pertaining to date and time (tempora)
+dev-python/tempora 1.6.1 1.8: Objects and routines pertaining to date and time (tempora)
 dev-python/typed_ast 1.0.4: Typed Abstract Syntax Tree forked from python 2.7/3.5 ast
 dev-python/yara-python 3.5.0: A malware identification and classification tool
 dev-ruby/compass 0.12.2: An open-source CSS Authoring Framework
