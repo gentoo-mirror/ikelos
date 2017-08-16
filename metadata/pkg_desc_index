@@ -73,4 +73,5 @@ net-misc/openvpn-auth-duosec 9999: OpenVPN plugin to authenticate using Duo Secu
 sci-geosciences/gypsy 0.6: D-bus based GPS daemon
 sys-apps/ifd-okrfid 2.2.0 2.6.0 2.8.1 2.9.1: Omnikey Cardman 5x2x PC/SC RFID drivers
 sys-apps/omnikey-pcsc-syncapi 1.5.0: Omnikey PC/SC Sync-API for Contactless Smartcards
+sys-process/systemd-cron 1.5.10-r1: systemd units to create timers for cron directories and crontab
 www-servers/woof 2009.12.27 2012.05.31: Web-of-one-file, small convenient webserver
