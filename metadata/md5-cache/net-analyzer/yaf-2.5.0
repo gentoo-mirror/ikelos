@@ -6,5 +6,4 @@ KEYWORDS=~amd64 ~x86
 RDEPEND=dev-libs/glib dev-libs/libfixbuf dev-libs/libpcre net-libs/libpcap sys-apps/dbus sys-devel/libtool
 SLOT=0
 SRC_URI=https://tools.netsa.cert.org/releases/yaf-2.5.0.tar.gz
-_eclass_exported_funcs=-
 _md5_=bd37605e3c3302ddc4aeec5b785fb985

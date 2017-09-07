@@ -5,5 +5,4 @@ HOMEPAGE=http://www.gentoo.org/
 KEYWORDS=~x86 ~amd64
 LICENSE=GPL-2
 SLOT=0
-_eclass_exported_funcs=src_install:-
 _md5_=7d7747a762d9027d7f27aa1e50972b76

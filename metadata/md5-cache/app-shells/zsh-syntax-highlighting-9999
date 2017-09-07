@@ -6,6 +6,5 @@ HOMEPAGE=https://github.com/zsh-users/zsh-syntax-highlighting
 KEYWORDS=~x86 ~amd64
 RDEPEND=>=app-shells/zsh-4.3.17
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_install:-
 _eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=210ded47c0784c2a7eaa2c4a9c4696b0

@@ -5,5 +5,4 @@ HOMEPAGE=http://www.sweetscape.com/010editor/templates/
 KEYWORDS=~amd64
 SLOT=0
 SRC_URI=http://www.sweetscape.com/010editor/templates/files/010EditorTemplates.zip -> 010-editor-templates-20170610.zip
-_eclass_exported_funcs=src_install:-
 _md5_=9fc39296c2cd3f0b8944045e35053a12
