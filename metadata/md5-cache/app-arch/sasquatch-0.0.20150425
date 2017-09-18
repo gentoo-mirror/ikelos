@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/devttys0/sasquatch
 KEYWORDS=~amd64
 RDEPEND=sys-libs/zlib app-arch/xz-utils dev-libs/lzo
 SLOT=0
-_eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
+_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
 _md5_=603e8374440b0183bba05eae53114eb0
