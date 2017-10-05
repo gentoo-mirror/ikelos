@@ -41,6 +41,7 @@ dev-python/pythonnet 2.1.0: Python bindings to use .NET and mono assemblies.
 dev-python/repoze-debug 1.0.2 9999: repoze.debug is an debugging framework for WSGI.
 dev-python/repoze-who 2.3: repoze.who is an identification and authentication framework for WSGI.
 dev-python/repoze-who-plugins-digestauth 0.1.1: repoze.who is an identification and authentication framework for WSGI.
+dev-python/snakeviz 0.4.2: A visualization interface for python profile information
 dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/spyne 2.12.14 9999: Library for implementing RPC/SOAP in python
 dev-python/tempora 1.6.1 1.8: Objects and routines pertaining to date and time (tempora)
