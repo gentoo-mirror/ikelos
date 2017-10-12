@@ -12,6 +12,9 @@ app-crypt/ophcrack-tables:xpgerman - Installs the XP german ophcrack tables
 app-crypt/ophcrack-tables:xpsmall - Installs the small free XP ophcrack tables
 app-crypt/ophcrack-tables:xpspecial - Installs the XP special ophcrack tables
 app-misc/binwalk:graph - Enable support for generating entropy graphs
+app-portage/eix:debug - Build with upstream's CXXFLAGS/LDFLAGS for debugging support; not recommended for normal use.
+app-portage/eix:doc - Create description of the eix cache file additionally in html format
+app-portage/eix:sqlite - Compile in support for portage's sqlite backend; to actually use it you need additional configuration of portage and eix
 media-video/ogmrip:ogm - Support for OGM container format
 media-video/ogmrip:srt - Support for SRT subtitle format
 net-dialup/freeradius:pcap - Build the RADIUS sniffer which requires net-libs/libpcap.

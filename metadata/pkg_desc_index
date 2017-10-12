@@ -13,6 +13,7 @@ app-misc/rubiks-futuro-cube 1.8: Rubiks Futuro Cube Suite
 app-misc/thingamablog 1.5.1: Thingamablog is a weblog software which generates pure HTML. No database or dynamic extensions are needed on the server.
 app-misc/yubikey-personalization 9999: 
 app-portage/ebuild-bisect 9999: Tool for bisecting live ebuilds
+app-portage/eix 0.33.0: Search and query ebuilds
 app-shells/zsh-syntax-highlighting 9999: Syntax highlighting (similar to the fish shell) for ZSH
 app-vim/pfp-vim 9999: vim plugin: 010 Editor template interpreter
 dev-lang/pawn 9999: Pawn is a quick and small scripting language that requires few resources.
