@@ -22,7 +22,7 @@ dev-libs/libdwarf 20100930 20110113 20110605 20110607 20110908 20120410: Library
 dev-python/cheroot 5.1.0 5.7.0: Cheroot is the high-performance, pure-Python HTTP server used by CherryPy.
 dev-python/cherrypy 5.1.0 10.1.1 11.0.0: CherryPy is a pythonic, object-oriented HTTP framework
 dev-python/cstruct 1.0: C-style structs for Python
-dev-python/elasticsearch-py 1.2.0: Elasticsearch python bindings
+dev-python/elasticsearch-dsl-py 2.2.0 5.1.0 5.2.0 5.3.0: official Python low-level client for Elasticsearch
 dev-python/facebook-sdk 2.0.0: Python SDK for Facebook's Graph API
 dev-python/imdbpy 5.1.1: Python package to access the IMDb movie database
 dev-python/intervaltree 2.1.0: Editable interval tree data structure for Python 2 and 3
