@@ -1,7 +1,6 @@
 app-accessibility/svox 9999: SVOX PicoTTS text-to-speech engine
 app-admin/keepassxc 2.2.1: KeePassXC - KeePass Cross-platform Community Edition
 app-arch/jefferson 9999: JFFS2 filesystem extraction tool
-app-arch/sasquatch 0.0.20150425 4.3: Tool for creating compressed filesystem type squashfs
 app-crypt/ccid-utils 0.3 9999: A USB smartcard driver and development platform.
 app-crypt/ophcrack 3.6.0: A time-memory-trade-off-cracker
 app-crypt/ophcrack-tables 1.1: Tables available for ophcrack
