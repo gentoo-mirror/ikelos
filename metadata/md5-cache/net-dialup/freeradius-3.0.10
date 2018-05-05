@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile configure install preinst prepare setup
+DEFINED_PHASES=compile config configure install preinst prepare setup
 DEPEND=!net-dialup/cistronradius !net-dialup/gnuradius sys-devel/libtool dev-lang/perl sys-libs/gdbm sys-libs/talloc python? ( || ( >=dev-lang/python-2.7.5-r2:2.7 ) ) readline? ( sys-libs/readline ) pcap? ( net-libs/libpcap ) mysql? ( virtual/mysql ) postgres? ( dev-db/postgresql ) firebird? ( dev-db/firebird ) pam? ( virtual/pam ) ssl? ( dev-libs/openssl ) ldap? ( net-nds/openldap ) kerberos? ( virtual/krb5 ) sqlite? ( dev-db/sqlite:3 ) odbc? ( dev-db/unixODBC ) iodbc? ( dev-db/libiodbc ) oracle? ( dev-db/oracle-instantclient-basic ) >=app-portage/elt-patches-20170422 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.16:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DESCRIPTION=Highly configurable free RADIUS server
 EAPI=5

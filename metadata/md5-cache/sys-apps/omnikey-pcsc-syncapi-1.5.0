@@ -1,4 +1,4 @@
-DEFINED_PHASES=install unpack
+DEFINED_PHASES=install nofetch unpack
 DESCRIPTION=Omnikey PC/SC Sync-API for Contactless Smartcards
 EAPI=0
 HOMEPAGE=http://omnikey.aaitg.com/index.php?id=69
