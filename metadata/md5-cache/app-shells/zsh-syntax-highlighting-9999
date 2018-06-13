@@ -1,10 +1,10 @@
 DEFINED_PHASES=install unpack
-DEPEND=>=app-shells/zsh-4.3.17 >=dev-vcs/git-1.8.2.1
+DEPEND=>=app-shells/zsh-4.3.17 >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Syntax highlighting (similar to the fish shell) for ZSH
 EAPI=6
 HOMEPAGE=https://github.com/zsh-users/zsh-syntax-highlighting
 KEYWORDS=~x86 ~amd64
 RDEPEND=>=app-shells/zsh-4.3.17
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=210ded47c0784c2a7eaa2c4a9c4696b0
