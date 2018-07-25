@@ -1,4 +1,5 @@
 dev-dotnet/gtk-sharp 2.12.21: gtk bindings for mono
 dev-python/elasticsearch-dsl-py 2.2.0 5.1.0 5.2.0 5.3.0: official Python low-level client for Elasticsearch
+dev-python/pyxml 0.8.4-r3: A collection of libraries to process XML with Python
 dev-python/repoze-debug 1.0.2 9999: repoze.debug is an debugging framework for WSGI.
 dev-util/pycharm-professional 2018.2: Intelligent Python IDE with unique code assistance and analysis
