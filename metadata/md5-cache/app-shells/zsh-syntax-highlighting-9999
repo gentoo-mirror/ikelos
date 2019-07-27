@@ -4,7 +4,8 @@ DESCRIPTION=Syntax highlighting (similar to the fish shell) for ZSH
 EAPI=6
 HOMEPAGE=https://github.com/zsh-users/zsh-syntax-highlighting
 KEYWORDS=~x86 ~amd64
+PROPERTIES=live
 RDEPEND=>=app-shells/zsh-4.3.17
 SLOT=0
-_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1
 _md5_=210ded47c0784c2a7eaa2c4a9c4696b0
