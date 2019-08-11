@@ -1,4 +1,101 @@
+app-accessibility/svox 9999: SVOX PicoTTS text-to-speech engine
+app-admin/keepassxc 2.2.1: KeePassXC - KeePass Cross-platform Community Edition
+app-arch/jefferson 9999: JFFS2 filesystem extraction tool
+app-crypt/ccid-utils 0.3 9999: A USB smartcard driver and development platform.
+app-editors/visual-studio-code 1.34.0: Multiplatform Visual Studio Code from Microsoft
+app-forensics/fatback 1.3: Tool to undelete files from FAT file systems
+app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
+app-misc/010-editor-templates 20170610: 010 Editor Templates
+app-misc/binwalk 9999: A tool for identifying files embedded inside firmware images
+app-misc/rubiks-futuro-cube 1.8: Rubiks Futuro Cube Suite
+app-misc/thingamablog 1.5.1: Thingamablog is a weblog software which generates pure HTML. No database or dynamic extensions are needed on the server.
+app-misc/yubikey-personalization 9999: 
+app-portage/ebuild-bisect 9999: Tool for bisecting live ebuilds
+app-portage/eix 0.33.0: Search and query ebuilds
+app-shells/antibody 4.1.1: The fastest shell plugin manager
+app-shells/zsh-syntax-highlighting 9999: Syntax highlighting (similar to the fish shell) for ZSH
+app-vim/easymotion 3.0.1: vim plugin: Vim motions on speed!
+app-vim/pfp-vim 9999: vim plugin: 010 Editor template interpreter
+dev-db/orientdb-bin 2.2.30: Multi-Model Open Source NoSQL DBMS that combines the power of graphs and the flexibility of documents into one scalable, high-performance operational database.
+dev-dotnet/gtk-sharp 2.12.45: gtk bindings for mono
+dev-lang/pawn 9999: Pawn is a quick and small scripting language that requires few resources.
+dev-libs/libdwarf 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
+dev-python/adafruit-ampy 1.0.7: 
+dev-python/altgraph 0.16.1: A constructing graphs, BFS and DFS traversals, etc
+dev-python/construct 2.8.21 2.9.45: A powerful declarative parser for binary data
+dev-python/cppmangle 0.2: A library for demangling and mangling Visual Studio C++ names.
+dev-python/cstruct 1.0: C-style structs for Python
+dev-python/drgn 9999: Scriptable debugger library
 dev-python/elasticsearch-dsl-py 2.2.0 5.1.0 5.2.0 5.3.0: official Python low-level client for Elasticsearch
+dev-python/facebook-sdk 2.0.0: Python SDK for Facebook's Graph API
+dev-python/imdbpy 5.1.1: Python package to access the IMDb movie database
+dev-python/intervaltree 2.1.0: Editable interval tree data structure for Python 2 and 3
+dev-python/jsonschema 3.0.0_alpha3: An implementation of JSON-Schema validation for Python
+dev-python/libkeepass 9999: Python module to read KeePass 1.x/KeePassX (v3) and KeePass 2.x (v4) files
+dev-python/macholib 1.11: 
+dev-python/monkeytype 18.8.0: A system that generates static type annotations by collecting runtime types
+dev-python/mypy 0.670: Optional static typing for Python
+dev-python/mypy_extensions 0.4.1: Optional static typing for Python
+dev-python/pdbparse 9999: Python code to parse Microsoft PDB files
+dev-python/pefile 2019.4.14-r1: Module to read and work with Portable Executable (PE) files
+dev-python/pfp 0.2.1: 010 Template interpretter for python
+dev-python/protocol-informatics 0.02_beta: 
+dev-python/py010parser 0.1.10: 010 template library for python
+dev-python/pyahocorasick 1.1.4: A fast and memory efficient library for exact or approximate multi-pattern string search
+dev-python/pyannotate 1.0.2: Auto-generates PEP-484 annotations
+dev-python/pycdc 9999: Python compiled-bytecode disassembler and decompiler
+dev-python/pydub 9999: 
+dev-python/pyfacebook 9999: Python Client Library for the Facebook API
+dev-python/pykeepass 3.0.3: Python Keepass library
+dev-python/pynfc 9999-r1: Python bindings for the libnfc library
+dev-python/pysmb 1.1.22: Pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines
+dev-python/python-dotenv 0.10.1: 
+dev-python/pythonnet 2.1.0: Python bindings to use .NET and mono assemblies.
 dev-python/pyxml 0.8.4-r3: A collection of libraries to process XML with Python
 dev-python/repoze-debug 1.0.2 9999: repoze.debug is an debugging framework for WSGI.
+dev-python/repoze-who 2.3: repoze.who is an identification and authentication framework for WSGI
+dev-python/repoze-who-plugins-digestauth 0.1.1: repoze.who is an identification and authentication framework for WSGI
+dev-python/retype 17.12.0: Re-apply type annotations from .pyi stubs to your codebase.
+dev-python/snakeviz 0.4.2 9999: A visualization interface for python profile information
+dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
+dev-python/sphinx-autodoc-typehints 1.6.0 9999: Type hints support for the Sphinx autodoc extension
+dev-python/spyne 2.12.14 9999: Library for implementing RPC/SOAP in python
+dev-python/transitions 0.6.9: Light-weight python state machine.
+dev-ruby/compass 0.12.2: An open-source CSS Authoring Framework
+dev-ruby/fssm 0.2.10: A file state system monitoring ruby module.
+dev-util/0xFFFF 0.4.0: Open Free Fiasco Firmware Flasher
+dev-util/bless 0.6.2: GTK# Hex Editor
+dev-util/dnSpy 5.0.11: 
+dev-util/dwarfdump 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
+dev-util/jadx 0.6.1: Android Dex to Java Decompiler
+dev-util/pycharm-community 2019.2: Intelligent Python IDE with unique code assistance and analysis
+dev-util/pycharm-professional 2019.2: Intelligent Python IDE with unique code assistance and analysis
+gnome-extra/conduit 0.3.13: Synchronization for GNOME
+gnome-extra/gnome-remote-desktop 9999: GNOME Remote Desktop screen share service
+gnome-extra/gnome-screencast 9999: GNOME Remote Desktop screen share service
+gnome-extra/gtkparasite 9999: Tool for GTK debugging and live interaction
+gnome-extra/tablet-apps 0.3.1: Gnome Graphics Tablet Applications
+mail-client/mailnag 9999: Mail nagger for gnome-shell (port of popper for unity)
+media-gfx/air-sdk 1.5: Adobe AIR runtime and development kit for Linux
+media-gfx/mathmap 1.3.5 1.3.5-r1: Mathmap is an image manipulation scripting plugin for the Gimp
+media-plugins/fourier 0.3.1: 
+media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
+media-sound/pulseaudio 12.2-r1: A networked sound server with an advanced plugin system
+media-video/get_iplayer 2.97 9999: BBC Iplayer downloading application
+media-video/griffith 0.13-r2: Movie collection manager
+media-video/janus-gateway 0.4.5: Janus is an open source, general purpose, WebRTC gateway
+media-video/pipewire 0.2.5: Multimedia processing graphs
+net-analyzer/inetsim 1.2.5: Tool for simulating an entire internet with working services on a single box.
+net-analyzer/passivedns 9999: 
+net-analyzer/yaf 2.5.0: Yet Another Flowsensor turns packets into NETFIX
+net-dialup/freeradius 3.0.10: Highly configurable free RADIUS server
+net-misc/openvpn-auth-duosec 9999: OpenVPN plugin to authenticate using Duo Security
+sci-geosciences/gypsy 0.6: D-bus based GPS daemon
+sys-apps/ifd-okrfid 2.2.0 2.6.0 2.8.1 2.9.1: Omnikey Cardman 5x2x PC/SC RFID drivers
+sys-apps/omnikey-pcsc-syncapi 1.5.0: Omnikey PC/SC Sync-API for Contactless Smartcards
+sys-apps/xdg-desktop-portal 1.2.0: Desktop integration portal
 sys-apps/xdg-desktop-portal-gtk 1.2.0: GTK/GNOME backend for xdg-desktop-portal
+sys-process/systemd-cron 1.5.10-r1: systemd units to create timers for cron directories and crontab
+www-servers/woof 2009.12.27 2012.05.31: Web-of-one-file, small convenient webserver
+x11-themes/adapta-gtk-theme 9999: An adaptive GTK+ theme based on Material Design Guidelines
+x11-wm/mutter 3.30.2-r3: GNOME 3 compositing window manager based on Clutter
