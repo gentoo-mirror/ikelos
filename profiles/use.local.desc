@@ -39,5 +39,3 @@ sys-process/systemd-cron:etc-crontab-systemd - Use dedicated /etc/crontab-system
 sys-process/systemd-cron:minutely - Support /etc/cron.minutely
 sys-process/systemd-cron:setgid - Compile setgid C helper for crontab. Needs GCC or Clang.
 sys-process/systemd-cron:yearly - Support /etc/cron.yearly
-x11-wm/mutter:elogind - Rely on sys-auth/elogind as logind provider for Wayland sessions
-x11-wm/mutter:gles2 - Enable OpenGL ES 2.0 support

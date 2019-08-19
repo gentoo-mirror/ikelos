@@ -98,4 +98,3 @@ sys-apps/xdg-desktop-portal-gtk 1.2.0: GTK/GNOME backend for xdg-desktop-portal
 sys-process/systemd-cron 1.5.10-r1: systemd units to create timers for cron directories and crontab
 www-servers/woof 2009.12.27 2012.05.31: Web-of-one-file, small convenient webserver
 x11-themes/adapta-gtk-theme 9999: An adaptive GTK+ theme based on Material Design Guidelines
-x11-wm/mutter 3.30.2-r3: GNOME 3 compositing window manager based on Clutter
