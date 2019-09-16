@@ -64,7 +64,6 @@ dev-python/transitions 0.6.9: Light-weight python state machine.
 dev-ruby/compass 0.12.2: An open-source CSS Authoring Framework
 dev-ruby/fssm 0.2.10: A file state system monitoring ruby module.
 dev-util/0xFFFF 0.4.0: Open Free Fiasco Firmware Flasher
-dev-util/bless 0.6.2: GTK# Hex Editor
 dev-util/dnSpy 5.0.11: 
 dev-util/dwarfdump 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
 dev-util/jadx 0.6.1: Android Dex to Java Decompiler
