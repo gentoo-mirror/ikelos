@@ -37,7 +37,7 @@ dev-python/monkeytype 18.8.0: A system that generates static type annotations by
 dev-python/mypy 0.670 0.740: Optional static typing for Python
 dev-python/mypy_extensions 0.4.1: Optional static typing for Python
 dev-python/pdbparse 9999: Python code to parse Microsoft PDB files
-dev-python/pefile 2019.4.14-r1: Module to read and work with Portable Executable (PE) files
+dev-python/pefile 2019.4.18: Module to read and work with Portable Executable (PE) files
 dev-python/pfp 0.2.1: 010 Template interpretter for python
 dev-python/protocol-informatics 0.02_beta: 
 dev-python/py010parser 0.1.10: 010 template library for python
