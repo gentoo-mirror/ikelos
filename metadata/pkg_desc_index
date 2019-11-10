@@ -20,7 +20,7 @@ dev-db/orientdb-bin 2.2.30: Multi-Model Open Source NoSQL DBMS that combines the
 dev-dotnet/gtk-sharp 2.12.45: gtk bindings for mono
 dev-lang/pawn 9999: Pawn is a quick and small scripting language that requires few resources.
 dev-libs/libdwarf 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
-dev-python/adafruit-ampy 1.0.7: 
+dev-python/adafruit-ampy 1.0.7: Adafruit MicroPython Tool
 dev-python/altgraph 0.16.1: A constructing graphs, BFS and DFS traversals, etc
 dev-python/construct 2.8.21 2.9.45: A powerful declarative parser for binary data
 dev-python/cppmangle 0.2: A library for demangling and mangling Visual Studio C++ names.
