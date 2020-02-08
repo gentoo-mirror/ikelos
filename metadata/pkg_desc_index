@@ -67,8 +67,8 @@ dev-util/0xFFFF 0.4.0: Open Free Fiasco Firmware Flasher
 dev-util/dnSpy 5.0.11: 
 dev-util/dwarfdump 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
 dev-util/jadx 0.6.1: Android Dex to Java Decompiler
-dev-util/pycharm-community 2019.3.2: Intelligent Python IDE with unique code assistance and analysis
-dev-util/pycharm-professional 2019.3.2: Intelligent Python IDE with unique code assistance and analysis
+dev-util/pycharm-community 2019.3.3: Intelligent Python IDE with unique code assistance and analysis
+dev-util/pycharm-professional 2019.3.3: Intelligent Python IDE with unique code assistance and analysis
 gnome-extra/conduit 0.3.13: Synchronization for GNOME
 gnome-extra/gnome-remote-desktop 9999: GNOME Remote Desktop screen share service
 gnome-extra/gnome-screencast 9999: GNOME Remote Desktop screen share service
