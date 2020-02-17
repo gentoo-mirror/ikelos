@@ -1,7 +1,6 @@
 app-accessibility/svox 9999: SVOX PicoTTS text-to-speech engine
 app-admin/keepassxc 2.2.1: KeePassXC - KeePass Cross-platform Community Edition
 app-arch/jefferson 9999: JFFS2 filesystem extraction tool
-app-crypt/ccid-utils 0.3 9999: A USB smartcard driver and development platform.
 app-editors/visual-studio-code 1.34.0: Multiplatform Visual Studio Code from Microsoft
 app-forensics/fatback 1.3: Tool to undelete files from FAT file systems
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
@@ -9,6 +8,7 @@ app-misc/010-editor-templates 20170610: 010 Editor Templates
 app-misc/binwalk 9999: A tool for identifying files embedded inside firmware images
 app-misc/rubiks-futuro-cube 1.8: Rubiks Futuro Cube Suite
 app-misc/thingamablog 1.5.1: Thingamablog is a weblog software which generates pure HTML. No database or dynamic extensions are needed on the server.
+app-misc/yubikey-personalization 9999: 
 app-portage/ebuild-bisect 9999: Tool for bisecting live ebuilds
 app-portage/eix 0.33.0: Search and query ebuilds
 app-shells/antibody 4.1.1: The fastest shell plugin manager
