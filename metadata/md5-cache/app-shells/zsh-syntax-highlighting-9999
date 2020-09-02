@@ -7,5 +7,5 @@ KEYWORDS=~x86 ~amd64
 PROPERTIES=live
 RDEPEND=>=app-shells/zsh-4.3.17
 SLOT=0
-_eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
 _md5_=210ded47c0784c2a7eaa2c4a9c4696b0
