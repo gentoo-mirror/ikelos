@@ -27,9 +27,7 @@ dev-python/drgn 9999: Scriptable debugger library
 dev-python/elasticsearch-dsl-py 2.2.0 5.1.0 5.2.0 5.3.0: official Python low-level client for Elasticsearch
 dev-python/facebook-sdk 2.0.0: Python SDK for Facebook's Graph API
 dev-python/imdbpy 5.1.1: Python package to access the IMDb movie database
-dev-python/intervaltree 2.1.0: Editable interval tree data structure for Python 2 and 3
 dev-python/libkeepass 9999: Python module to read KeePass 1.x/KeePassX (v3) and KeePass 2.x (v4) files
-dev-python/macholib 1.11: 
 dev-python/monkeytype 18.8.0: A system that generates static type annotations by collecting runtime types
 dev-python/mypy 0.782 0.790: Optional static typing for Python
 dev-python/mypy_extensions 0.4.3: Optional static typing for Python
@@ -56,9 +54,8 @@ dev-python/repoze-who 2.3: repoze.who is an identification and authentication fr
 dev-python/repoze-who-plugins-digestauth 0.1.1: repoze.who is an identification and authentication framework for WSGI
 dev-python/retype 17.12.0: Re-apply type annotations from .pyi stubs to your codebase.
 dev-python/snakeviz 0.4.2 0.4.2-r1 9999: A visualization interface for python profile information
-dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/sphinx-autodoc-typehints 1.6.0 9999: Type hints support for the Sphinx autodoc extension
-dev-python/spyne 2.12.14 9999: Library for implementing RPC/SOAP in python
+dev-python/spyne 2.13.15 9999: Library for implementing RPC/SOAP in python
 dev-python/transitions 0.6.9: Light-weight python state machine.
 dev-ruby/compass 0.12.2: An open-source CSS Authoring Framework
 dev-ruby/fssm 0.2.10: A file state system monitoring ruby module.
