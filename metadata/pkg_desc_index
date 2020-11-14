@@ -19,8 +19,7 @@ dev-db/orientdb-bin 2.2.30: Multi-Model Open Source NoSQL DBMS that combines the
 dev-dotnet/gtk-sharp 2.12.45: gtk bindings for mono
 dev-lang/pawn 9999: Pawn is a quick and small scripting language that requires few resources.
 dev-libs/libdwarf 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
-dev-python/adafruit-ampy 1.0.7: Adafruit MicroPython Tool
-dev-python/altgraph 0.16.1: A constructing graphs, BFS and DFS traversals, etc
+dev-python/adafruit-ampy 1.0.7 1.0.7-r1: Adafruit MicroPython Tool
 dev-python/construct 2.8.21 2.9.45: A powerful declarative parser for binary data
 dev-python/cppmangle 0.2: A library for demangling and mangling Visual Studio C++ names.
 dev-python/cstruct 1.0: C-style structs for Python
@@ -42,10 +41,10 @@ dev-python/py010parser 0.1.10: 010 template library for python
 dev-python/pyahocorasick 1.1.4: A fast and memory efficient library for exact or approximate multi-pattern string search
 dev-python/pyannotate 1.0.2: Auto-generates PEP-484 annotations
 dev-python/pycdc 9999: Python compiled-bytecode disassembler and decompiler
-dev-python/pydub 9999: 
+dev-python/pydub 9999 9999-r1: 
 dev-python/pyfacebook 9999: Python Client Library for the Facebook API
 dev-python/pykeepass 3.2.0: Python Keepass library
-dev-python/pynfc 9999-r1: Python bindings for the libnfc library
+dev-python/pynfc 9999-r1 9999-r2: Python bindings for the libnfc library
 dev-python/pysmb 1.1.22: Pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines
 dev-python/python-dotenv 0.10.1: 
 dev-python/pythonnet 2.1.0: Python bindings to use .NET and mono assemblies.
@@ -54,7 +53,7 @@ dev-python/repoze-debug 1.0.2 9999: repoze.debug is an debugging framework for W
 dev-python/repoze-who 2.3: repoze.who is an identification and authentication framework for WSGI
 dev-python/repoze-who-plugins-digestauth 0.1.1: repoze.who is an identification and authentication framework for WSGI
 dev-python/retype 17.12.0: Re-apply type annotations from .pyi stubs to your codebase.
-dev-python/snakeviz 0.4.2 9999: A visualization interface for python profile information
+dev-python/snakeviz 0.4.2 0.4.2-r1 9999: A visualization interface for python profile information
 dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/sphinx-autodoc-typehints 1.6.0 9999: Type hints support for the Sphinx autodoc extension
 dev-python/spyne 2.12.14 9999: Library for implementing RPC/SOAP in python
