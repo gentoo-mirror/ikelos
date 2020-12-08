@@ -68,7 +68,6 @@ dev-util/jadx 1.2.0: Android Dex to Java Decompiler
 dev-util/pycharm-community 2020.3: Intelligent Python IDE with unique code assistance and analysis
 dev-util/pycharm-professional 2020.3: Intelligent Python IDE with unique code assistance and analysis
 gnome-extra/conduit 0.3.13: Synchronization for GNOME
-gnome-extra/gnome-remote-desktop 9999: GNOME Remote Desktop screen share service
 gnome-extra/gnome-screencast 9999: GNOME Remote Desktop screen share service
 gnome-extra/gtkparasite 9999: Tool for GTK debugging and live interaction
 gnome-extra/tablet-apps 0.3.1: Gnome Graphics Tablet Applications
