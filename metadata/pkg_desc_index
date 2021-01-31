@@ -1,11 +1,9 @@
 app-accessibility/svox 9999: SVOX PicoTTS text-to-speech engine
 app-admin/keepassxc 2.2.1: KeePassXC - KeePass Cross-platform Community Edition
-app-arch/jefferson 9999: JFFS2 filesystem extraction tool
 app-editors/visual-studio-code 1.34.0: Multiplatform Visual Studio Code from Microsoft
 app-forensics/fatback 1.3: Tool to undelete files from FAT file systems
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-misc/010-editor-templates 20170610: 010 Editor Templates
-app-misc/binwalk 9999: A tool for identifying files embedded inside firmware images
 app-misc/rubiks-futuro-cube 1.8: Rubiks Futuro Cube Suite
 app-misc/thingamablog 1.5.1: Thingamablog is a weblog software which generates pure HTML. No database or dynamic extensions are needed on the server.
 app-misc/yubikey-personalization 9999: 
@@ -22,11 +20,7 @@ dev-libs/libdwarf 20100930 20110113 20110605 20110607 20110908 20120410: Library
 dev-python/adafruit-ampy 1.0.7 1.0.7-r1: Adafruit MicroPython Tool
 dev-python/construct 2.8.21 2.9.45: A powerful declarative parser for binary data
 dev-python/cppmangle 0.2: A library for demangling and mangling Visual Studio C++ names.
-dev-python/cstruct 1.0: C-style structs for Python
 dev-python/drgn 9999: Scriptable debugger library
-dev-python/elasticsearch-dsl-py 2.2.0 5.1.0 5.2.0 5.3.0: official Python low-level client for Elasticsearch
-dev-python/facebook-sdk 2.0.0: Python SDK for Facebook's Graph API
-dev-python/imdbpy 5.1.1: Python package to access the IMDb movie database
 dev-python/libcst 0.3.15: A concrete syntax tree parser and serializer library for Python
 dev-python/libkeepass 9999: Python module to read KeePass 1.x/KeePassX (v3) and KeePass 2.x (v4) files
 dev-python/monkeytype 20.5.0: A system that generates static type annotations by collecting runtime types
@@ -34,30 +28,17 @@ dev-python/mypy 0.782 0.790: Optional static typing for Python
 dev-python/mypy_extensions 0.4.3: Optional static typing for Python
 dev-python/pdbparse 9999: Python code to parse Microsoft PDB files
 dev-python/pefile 2019.4.18: Module to read and work with Portable Executable (PE) files
-dev-python/pfp 0.2.1: 010 Template interpretter for python
-dev-python/protocol-informatics 0.02_beta: 
-dev-python/py010parser 0.1.10: 010 template library for python
-dev-python/pyahocorasick 1.1.4: A fast and memory efficient library for exact or approximate multi-pattern string search
-dev-python/pyannotate 1.0.2: Auto-generates PEP-484 annotations
 dev-python/pycdc 9999: Python compiled-bytecode disassembler and decompiler
 dev-python/pydub 9999 9999-r1: 
-dev-python/pyfacebook 9999: Python Client Library for the Facebook API
 dev-python/pyinstaller 4.0: Program converting Python programs into stand-alone executables
 dev-python/pyinstaller-hooks-contrib 2020.10: 
 dev-python/pykeepass 3.2.0: Python Keepass library
 dev-python/pynfc 9999-r1 9999-r2: Python bindings for the libnfc library
-dev-python/pysmb 1.1.22: Pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines
 dev-python/python-dotenv 0.10.1: 
-dev-python/pythonnet 2.1.0: Python bindings to use .NET and mono assemblies.
-dev-python/pyxml 0.8.4-r3: A collection of libraries to process XML with Python
-dev-python/repoze-debug 1.0.2 9999: repoze.debug is an debugging framework for WSGI.
-dev-python/repoze-who 2.3: repoze.who is an identification and authentication framework for WSGI
-dev-python/repoze-who-plugins-digestauth 0.1.1: repoze.who is an identification and authentication framework for WSGI
 dev-python/retype 17.12.0: Re-apply type annotations from .pyi stubs to your codebase.
 dev-python/snakeviz 0.4.2 0.4.2-r1 9999: A visualization interface for python profile information
 dev-python/sphinx-autodoc-typehints 1.6.0 9999: Type hints support for the Sphinx autodoc extension
 dev-python/spyne 2.13.15 9999: Library for implementing RPC/SOAP in python
-dev-python/transitions 0.6.9: Light-weight python state machine.
 dev-python/typing_inspect 0.6.0: Runtime inspection utilities for Python typing module
 dev-ruby/compass 0.12.2: An open-source CSS Authoring Framework
 dev-ruby/fssm 0.2.10: A file state system monitoring ruby module.
@@ -74,10 +55,8 @@ gnome-extra/tablet-apps 0.3.1: Gnome Graphics Tablet Applications
 media-gfx/air-sdk 1.5: Adobe AIR runtime and development kit for Linux
 media-gfx/mathmap 1.3.5 1.3.5-r1: Mathmap is an image manipulation scripting plugin for the Gimp
 media-plugins/fourier 0.3.1: 
-media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
 media-sound/pulseaudio 12.2-r1: A networked sound server with an advanced plugin system
 media-video/get_iplayer 2.97 9999: BBC Iplayer downloading application
-media-video/griffith 0.13-r2: Movie collection manager
 media-video/janus-gateway 0.4.5: Janus is an open source, general purpose, WebRTC gateway
 media-video/pipewire 0.2.5: Multimedia processing graphs
 net-analyzer/inetsim 1.2.5: Tool for simulating an entire internet with working services on a single box.
