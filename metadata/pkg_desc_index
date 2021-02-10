@@ -16,6 +16,7 @@ app-vim/pfp-vim 9999: vim plugin: 010 Editor template interpreter
 dev-db/orientdb-bin 2.2.30: Multi-Model Open Source NoSQL DBMS that combines the power of graphs and the flexibility of documents into one scalable, high-performance operational database.
 dev-dotnet/gtk-sharp 2.12.45: gtk bindings for mono
 dev-lang/pawn 9999: Pawn is a quick and small scripting language that requires few resources.
+dev-libs/keystone 0.9.2 9999: assembly/assembler framework + bindings
 dev-libs/libdwarf 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
 dev-python/adafruit-ampy 1.0.7 1.0.7-r1: Adafruit MicroPython Tool
 dev-python/construct 2.8.21 2.9.45: A powerful declarative parser for binary data
