@@ -22,6 +22,7 @@ dev-python/adafruit-ampy 1.0.7 1.0.7-r1: Adafruit MicroPython Tool
 dev-python/construct 2.8.21 2.9.45: A powerful declarative parser for binary data
 dev-python/cppmangle 0.2: A library for demangling and mangling Visual Studio C++ names.
 dev-python/drgn 9999: Scriptable debugger library
+dev-python/elasticsearch-dsl-py 2.2.0 5.1.0 5.2.0 5.3.0: official Python low-level client for Elasticsearch
 dev-python/libcst 0.3.15: A concrete syntax tree parser and serializer library for Python
 dev-python/libkeepass 9999: Python module to read KeePass 1.x/KeePassX (v3) and KeePass 2.x (v4) files
 dev-python/monkeytype 20.5.0: A system that generates static type annotations by collecting runtime types
@@ -47,8 +48,8 @@ dev-util/0xFFFF 0.4.0: Open Free Fiasco Firmware Flasher
 dev-util/dnSpy 5.0.11: 
 dev-util/dwarfdump 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
 dev-util/jadx 1.2.0: Android Dex to Java Decompiler
-dev-util/pycharm-community 2020.3.3: Intelligent Python IDE with unique code assistance and analysis
-dev-util/pycharm-professional 2020.3.3: Intelligent Python IDE with unique code assistance and analysis
+dev-util/pycharm-community 2020.3.4: Intelligent Python IDE with unique code assistance and analysis
+dev-util/pycharm-professional 2020.3.4: Intelligent Python IDE with unique code assistance and analysis
 gnome-extra/conduit 0.3.13: Synchronization for GNOME
 gnome-extra/gnome-screencast 9999: GNOME Remote Desktop screen share service
 gnome-extra/gtkparasite 9999: Tool for GTK debugging and live interaction

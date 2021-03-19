@@ -6,7 +6,6 @@ app-admin/keepassxc:autotype - Add support to autotype the passwords into other 
 app-admin/keepassxc:http - Add http support
 app-admin/keepassxc:yubikey - Enable database unlocking via YubiKey.
 app-editors/visual-studio-code:libsecret - Enable libsecret support
-app-misc/binwalk:graph - Enable support for generating entropy graphs
 app-portage/eix:debug - Build with upstream's CXXFLAGS/LDFLAGS for debugging support; not recommended for normal use.
 app-portage/eix:doc - Create description of the eix cache file additionally in html format
 app-portage/eix:sqlite - Compile in support for portage's sqlite backend; to actually use it you need additional configuration of portage and eix
