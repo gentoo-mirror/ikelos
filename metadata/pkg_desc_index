@@ -59,7 +59,7 @@ media-gfx/mathmap 1.3.5 1.3.5-r1: Mathmap is an image manipulation scripting plu
 media-plugins/fourier 0.3.1: 
 media-sound/pulseaudio 12.2-r1: A networked sound server with an advanced plugin system
 media-video/get_iplayer 2.97 9999: BBC Iplayer downloading application
-media-video/janus-gateway 0.4.5: Janus is an open source, general purpose, WebRTC gateway
+media-video/janus-gateway 0.11.1 9999: Janus is an open source, general purpose, WebRTC gateway
 media-video/pipewire 0.2.5: Multimedia processing graphs
 net-analyzer/inetsim 1.2.5: Tool for simulating an entire internet with working services on a single box.
 net-analyzer/passivedns 9999: 
