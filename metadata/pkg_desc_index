@@ -23,7 +23,7 @@ dev-python/cppmangle 0.2: A library for demangling and mangling Visual Studio C+
 dev-python/drgn 9999: Scriptable debugger library
 dev-python/elasticsearch-dsl-py 2.2.0 5.1.0 5.2.0 5.3.0: official Python low-level client for Elasticsearch
 dev-python/libcst 0.3.15: A concrete syntax tree parser and serializer library for Python
-dev-python/libkeepass 9999: Python module to read KeePass 1.x/KeePassX (v3) and KeePass 2.x (v4) files
+dev-python/libkeepass 9999-r1: Python module to read KeePass 1.x/KeePassX (v3) and KeePass 2.x (v4) files
 dev-python/monkeytype 20.5.0: A system that generates static type annotations by collecting runtime types
 dev-python/mypy 0.782 0.790: Optional static typing for Python
 dev-python/mypy_extensions 0.4.3: Optional static typing for Python
@@ -37,11 +37,13 @@ dev-python/pyinstaller 4.0: Program converting Python programs into stand-alone 
 dev-python/pyinstaller-hooks-contrib 2020.10: 
 dev-python/pykeepass 3.2.0: Python Keepass library
 dev-python/pynfc 9999-r2: Python bindings for the libnfc library
+dev-python/pysmb 1.1.22: Pysmb is a SMB/CIFS library written in Python to support file sharing
 dev-python/python-dotenv 0.10.1: 
 dev-python/retype 17.12.0: Re-apply type annotations from .pyi stubs to your codebase.
-dev-python/snakeviz 0.4.2 0.4.2-r1 9999: A visualization interface for python profile information
+dev-python/snakeviz 2.0.1 9999: A visualization interface for python profile information
 dev-python/sphinx-autodoc-typehints 1.6.0 9999: Type hints support for the Sphinx autodoc extension
 dev-python/spyne 2.13.15: Library for implementing RPC/SOAP in python
+dev-python/transitions 0.8.8: Light-weight python state machine.
 dev-python/typing_inspect 0.6.0: Runtime inspection utilities for Python typing module
 dev-ruby/compass 0.12.2: An open-source CSS Authoring Framework
 dev-ruby/fssm 0.2.10: A file state system monitoring ruby module.
