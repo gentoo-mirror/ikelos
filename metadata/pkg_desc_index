@@ -29,8 +29,6 @@ dev-python/mypy 0.782 0.790: Optional static typing for Python
 dev-python/mypy_extensions 0.4.3: Optional static typing for Python
 dev-python/pdbparse 9999: Python code to parse Microsoft PDB files
 dev-python/pefile 2019.4.18: Module to read and work with Portable Executable (PE) files
-dev-python/pfp 0.4.11: 010 Template interpretter for python
-dev-python/py010parser 0.1.18: 010 template library for python
 dev-python/pycdc 9999: Python compiled-bytecode disassembler and decompiler
 dev-python/pydub 9999 9999-r1: 
 dev-python/pyinstaller 4.0: Program converting Python programs into stand-alone executables
@@ -69,14 +67,12 @@ media-video/pipewire 0.2.5: Multimedia processing graphs
 net-analyzer/inetsim 1.2.5: Tool for simulating an entire internet with working services on a single box.
 net-analyzer/passivedns 9999: 
 net-analyzer/yaf 2.5.0: Yet Another Flowsensor turns packets into NETFIX
-net-dialup/freeradius 3.0.10: Highly configurable free RADIUS server
 net-misc/openvpn-auth-duosec 9999: OpenVPN plugin to authenticate using Duo Security
 sci-geosciences/gypsy 0.6: D-bus based GPS daemon
 sys-apps/ifd-okrfid 2.2.0 2.6.0 2.8.1 2.9.1: Omnikey Cardman 5x2x PC/SC RFID drivers
 sys-apps/omnikey-pcsc-syncapi 1.5.0: Omnikey PC/SC Sync-API for Contactless Smartcards
 sys-apps/xdg-desktop-portal 1.2.0: Desktop integration portal
 sys-apps/xdg-desktop-portal-gtk 1.2.0: GTK/GNOME backend for xdg-desktop-portal
-sys-process/systemd-cron 1.5.10-r1: systemd units to create timers for cron directories and crontab
 www-servers/woof 2009.12.27 2012.05.31: Web-of-one-file, small convenient webserver
 x11-themes/adapta-gtk-theme 9999: An adaptive GTK+ theme based on Material Design Guidelines
 x11-themes/materia-theme 20200320: A Material Design-like flat theme for GTK3, GTK2 and GNOME Shell
