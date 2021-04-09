@@ -39,6 +39,8 @@ dev-python/pykeepass 3.2.0: Python Keepass library
 dev-python/pynfc 9999-r2: Python bindings for the libnfc library
 dev-python/pysmb 1.1.22: Pysmb is a SMB/CIFS library written in Python to support file sharing
 dev-python/python-dotenv 0.10.1: 
+dev-python/repoze-debug 1.1: repoze.debug is an debugging framework for WSGI.
+dev-python/repoze-who 2.4: repoze.who is an identification and authentication framework for WSGI
 dev-python/retype 17.12.0: Re-apply type annotations from .pyi stubs to your codebase.
 dev-python/snakeviz 2.0.1 9999: A visualization interface for python profile information
 dev-python/sphinx-autodoc-typehints 1.6.0 9999: Type hints support for the Sphinx autodoc extension
