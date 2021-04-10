@@ -30,7 +30,7 @@ dev-python/mypy_extensions 0.4.3: Optional static typing for Python
 dev-python/pdbparse 9999: Python code to parse Microsoft PDB files
 dev-python/pefile 2019.4.18: Module to read and work with Portable Executable (PE) files
 dev-python/pycdc 9999: Python compiled-bytecode disassembler and decompiler
-dev-python/pydub 9999 9999-r1: 
+dev-python/pydub 9999-r1: 
 dev-python/pyinstaller 4.0: Program converting Python programs into stand-alone executables
 dev-python/pyinstaller-hooks-contrib 2020.10: 
 dev-python/pykeepass 3.2.0: Python Keepass library

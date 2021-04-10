@@ -35,8 +35,3 @@ media-video/janus-gateway:turn - Enables TURN support
 media-video/janus-gateway:unix-sockets - Allow unix socket connections
 media-video/janus-gateway:websockets - Allow websocket connections
 net-dialup/freeradius:pcap - Build the RADIUS sniffer which requires net-libs/libpcap.
-sys-process/systemd-cron:cron-boot - Include support for the boot timer.
-sys-process/systemd-cron:etc-crontab-systemd - Use dedicated /etc/crontab-systemd instead of parsing /etc/crontab
-sys-process/systemd-cron:minutely - Support /etc/cron.minutely
-sys-process/systemd-cron:setgid - Compile setgid C helper for crontab. Needs GCC or Clang.
-sys-process/systemd-cron:yearly - Support /etc/cron.yearly
