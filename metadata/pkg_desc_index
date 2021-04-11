@@ -1,4 +1,3 @@
-app-accessibility/svox 9999: SVOX PicoTTS text-to-speech engine
 app-admin/keepassxc 2.2.1: KeePassXC - KeePass Cross-platform Community Edition
 app-editors/visual-studio-code 1.34.0: Multiplatform Visual Studio Code from Microsoft
 app-forensics/fatback 1.3: Tool to undelete files from FAT file systems
@@ -16,7 +15,6 @@ dev-db/orientdb-bin 2.2.30: Multi-Model Open Source NoSQL DBMS that combines the
 dev-dotnet/gtk-sharp 2.12.45: gtk bindings for mono
 dev-lang/pawn 9999: Pawn is a quick and small scripting language that requires few resources.
 dev-libs/keystone 0.9.2 9999: assembly/assembler framework + bindings
-dev-libs/libdwarf 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
 dev-python/adafruit-ampy 1.0.7 1.0.7-r1: Adafruit MicroPython Tool
 dev-python/construct 2.8.21 2.9.45: A powerful declarative parser for binary data
 dev-python/cppmangle 0.2: A library for demangling and mangling Visual Studio C++ names.
@@ -49,7 +47,6 @@ dev-ruby/compass 0.12.2: An open-source CSS Authoring Framework
 dev-ruby/fssm 0.2.10: A file state system monitoring ruby module.
 dev-util/0xFFFF 0.4.0: Open Free Fiasco Firmware Flasher
 dev-util/dnSpy 5.0.11: 
-dev-util/dwarfdump 20100930 20110113 20110605 20110607 20110908 20120410: Library for extracting DWARF data from code objects
 dev-util/jadx 1.2.0: Android Dex to Java Decompiler
 dev-util/pycharm-community 2021.1: Intelligent Python IDE with unique code assistance and analysis
 dev-util/pycharm-professional 2021.1: Intelligent Python IDE with unique code assistance and analysis
