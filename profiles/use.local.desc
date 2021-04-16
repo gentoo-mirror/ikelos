@@ -34,4 +34,3 @@ media-video/janus-gateway:rest - Enables RESTful API
 media-video/janus-gateway:turn - Enables TURN support
 media-video/janus-gateway:unix-sockets - Allow unix socket connections
 media-video/janus-gateway:websockets - Allow websocket connections
-net-dialup/freeradius:pcap - Build the RADIUS sniffer which requires net-libs/libpcap.
