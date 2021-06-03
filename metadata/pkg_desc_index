@@ -17,12 +17,15 @@ dev-dotnet/gtk-sharp 2.12.45: gtk bindings for mono
 dev-lang/pawn 9999: Pawn is a quick and small scripting language that requires few resources.
 dev-libs/keystone 0.9.2 9999: assembly/assembler framework + bindings
 dev-python/adafruit-ampy 1.0.7 1.0.7-r1: Adafruit MicroPython Tool
+dev-python/cppmangle 0.2: A library for demangling and mangling Visual Studio C++ names.
+dev-python/drgn 9999: Scriptable debugger library
 dev-python/elasticsearch-dsl-py 2.2.0 5.1.0 5.2.0 5.3.0: official Python low-level client for Elasticsearch
 dev-python/libcst 0.3.15: A concrete syntax tree parser and serializer library for Python
 dev-python/libkeepass 9999-r1: Python module to read KeePass 1.x/KeePassX (v3) and KeePass 2.x (v4) files
 dev-python/monkeytype 20.5.0: A system that generates static type annotations by collecting runtime types
 dev-python/mypy 0.782 0.790: Optional static typing for Python
 dev-python/mypy_extensions 0.4.3: Optional static typing for Python
+dev-python/pdbparse 9999: Python code to parse Microsoft PDB files
 dev-python/pefile 2019.4.18: Module to read and work with Portable Executable (PE) files
 dev-python/pfp 0.4.11: 010 Template interpretter for python
 dev-python/py010parser 0.1.18: 010 template library for python
@@ -30,6 +33,7 @@ dev-python/pycdc 9999: Python compiled-bytecode disassembler and decompiler
 dev-python/pydub 9999-r1: 
 dev-python/pyinstaller 4.0: Program converting Python programs into stand-alone executables
 dev-python/pyinstaller-hooks-contrib 2020.10: 
+dev-python/pykeepass 3.2.0: Python Keepass library
 dev-python/pynfc 9999-r2: Python bindings for the libnfc library
 dev-python/pysmb 1.1.22: Pysmb is a SMB/CIFS library written in Python to support file sharing
 dev-python/repoze-debug 1.1: repoze.debug is an debugging framework for WSGI.
