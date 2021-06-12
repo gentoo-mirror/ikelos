@@ -1,6 +1,5 @@
 app-accessibility/svox 9999: SVOX PicoTTS text-to-speech engine
 app-admin/keepassxc 2.2.1: KeePassXC - KeePass Cross-platform Community Edition
-app-editors/visual-studio-code 1.34.0: Multiplatform Visual Studio Code from Microsoft
 app-forensics/fatback 1.3: Tool to undelete files from FAT file systems
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-misc/010-editor-templates 20170610: 010 Editor Templates
@@ -23,7 +22,6 @@ dev-python/elasticsearch-dsl-py 2.2.0 5.1.0 5.2.0 5.3.0: official Python low-lev
 dev-python/libcst 0.3.15: A concrete syntax tree parser and serializer library for Python
 dev-python/libkeepass 9999-r1: Python module to read KeePass 1.x/KeePassX (v3) and KeePass 2.x (v4) files
 dev-python/monkeytype 20.5.0: A system that generates static type annotations by collecting runtime types
-dev-python/mypy 0.782 0.790: Optional static typing for Python
 dev-python/mypy_extensions 0.4.3: Optional static typing for Python
 dev-python/pdbparse 9999: Python code to parse Microsoft PDB files
 dev-python/pefile 2019.4.18: Module to read and work with Portable Executable (PE) files
@@ -47,7 +45,6 @@ dev-python/typing_inspect 0.6.0: Runtime inspection utilities for Python typing 
 dev-ruby/compass 0.12.2: An open-source CSS Authoring Framework
 dev-ruby/fssm 0.2.10: A file state system monitoring ruby module.
 dev-util/0xFFFF 0.4.0: Open Free Fiasco Firmware Flasher
-dev-util/dnSpy 5.0.11: 
 dev-util/jadx 1.2.0: Android Dex to Java Decompiler
 dev-util/pycharm-community 2021.1.2: Intelligent Python IDE with unique code assistance and analysis
 dev-util/pycharm-professional 2021.1.2: Intelligent Python IDE with unique code assistance and analysis
