@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=Web-of-one-file, small convenient webserver
+EAPI=7
+HOMEPAGE=https://github.com/simon-budig/woof
+INHERIT=git-r3 python-r1
+IUSE=python_targets_python3_8 python_targets_python3_9 python_targets_python3_10
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da	multibuild	05a584848db4901c97fcd94ae7cc3a97	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	python-utils-r1	977ed3240c7c676eb18a277e65663c1c	python-r1	e20b80360497e6215aed0dd4ca7d6bad
+_md5_=41b8f4cd2c86ba5ce95f28de53ebe89d

@@ -65,6 +65,7 @@ sci-geosciences/gypsy 0.6: D-bus based GPS daemon
 sys-apps/ifd-okrfid 2.2.0 2.6.0 2.8.1 2.9.1: Omnikey Cardman 5x2x PC/SC RFID drivers
 sys-apps/xdg-desktop-portal 1.2.0: Desktop integration portal
 sys-apps/xdg-desktop-portal-gtk 1.2.0: GTK/GNOME backend for xdg-desktop-portal
+www-servers/woof 9999: Web-of-one-file, small convenient webserver
 x11-themes/adapta-gtk-theme 9999: An adaptive GTK+ theme based on Material Design Guidelines
 x11-themes/materia-theme 20200320: A Material Design-like flat theme for GTK3, GTK2 and GNOME Shell
 x11-themes/plata-theme 9999: An adaptive GTK+ theme based on Material Design Guidelines
