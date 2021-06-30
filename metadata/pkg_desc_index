@@ -56,13 +56,11 @@ media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client
 media-sound/pulseaudio 12.2-r1: A networked sound server with an advanced plugin system
 media-video/get_iplayer 2.97 9999: BBC Iplayer downloading application
 media-video/janus-gateway 0.11.1 9999: Janus is an open source, general purpose, WebRTC gateway
-media-video/pipewire 0.2.5: Multimedia processing graphs
 net-analyzer/inetsim 1.2.5: Tool for simulating an entire internet with working services on a single box.
 net-analyzer/passivedns 9999: 
 net-analyzer/yaf 2.5.0: Yet Another Flowsensor turns packets into NETFIX
 net-misc/openvpn-auth-duosec 9999: OpenVPN plugin to authenticate using Duo Security
 sci-geosciences/gypsy 0.6: D-bus based GPS daemon
-sys-apps/ifd-okrfid 2.2.0 2.6.0 2.8.1 2.9.1: Omnikey Cardman 5x2x PC/SC RFID drivers
 sys-apps/xdg-desktop-portal 1.2.0: Desktop integration portal
 sys-apps/xdg-desktop-portal-gtk 1.2.0: GTK/GNOME backend for xdg-desktop-portal
 www-servers/woof 9999: Web-of-one-file, small convenient webserver
